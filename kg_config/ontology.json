@@ -1,0 +1,34 @@
+{
+  "ontology_graph": {
+    "eat": ["apple", "banana", "orange", "sandwich", "pizza", "fork", "plate"],
+    "drink": ["cup", "wine glass", "bottle", "glass", "water bottle"],
+    "work": ["desk", "laptop", "keyboard", "mouse", "chair", "person"],
+    "cook": ["oven", "pot", "pan", "knife", "stove", "fork"],
+    "play": ["ball", "frisbee", "bat", "racket", "person", "sports"],
+    "read": ["book", "laptop", "keyboard", "person", "chair", "glasses"],
+    "wear": ["hat", "shoes", "backpack", "glasses", "belt", "pants", "shirt"],
+    "throw": ["ball", "frisbee", "person", "hand"],
+    "ride": ["bicycle", "motorcycle", "car", "person", "helmet"],
+    "sit": ["chair", "bench", "couch", "bed", "person", "sofa"],
+    "hold": ["cup", "bottle", "phone", "book", "bag", "person"],
+    "walk": ["person", "dog", "shoe", "street", "road", "sidewalk"],
+    "drink_hot": ["mug", "cup", "kettle"],
+    "eat_snack": ["cookie", "chips", "sandwich", "napkin"],
+    "clean": ["broom", "mop", "bucket", "soap"],
+    "drive": ["car", "steering wheel", "road", "person"],
+    "look": ["person", "face", "eye", "camera"],
+    "pet": ["dog", "cat", "leash", "person"],
+    "capture": ["camera", "phone", "person"],
+    "talk": ["person", "microphone", "phone"],
+    "open": ["door", "window", "box", "container"],
+    "close": ["door", "window", "box"],
+    "push": ["door", "button", "cart"],
+    "pull": ["drawer", "door", "handle"]
+  },
+  "stop_words": [
+    "something", "to", "find", "me", "a", "an", "the", "from", "in", "on", "at",
+    "and", "or", "is", "am", "are", "be", "been", "being", "have", "has", "had",
+    "do", "does", "did", "will", "would", "could", "should", "may", "might", "can",
+    "for", "of", "with", "that", "this"
+  ]
+}
